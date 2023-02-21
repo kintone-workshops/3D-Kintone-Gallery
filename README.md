@@ -5,10 +5,8 @@
 Thank you for attending our **Kintone x React** workshop!  
 Check out [meetup.com/Kintone-Developers](https://www.meetup.com/Kintone-Developers/) to check out all of our upcoming events!
 
-## Outline <!-- omit in toc --> <!-- markdownlint-disable MD007 -->
-
+## Outline <!-- omit in toc -->
 * [Get Started](#get-started)
-  * [⚡ Notes ⚡](#-notes-)
 * [Overview of the Repo](#overview-of-the-repo)
 * [Get Your Free Kintone Database](#get-your-free-kintone-database)
 * [Create a Kintone Web Database App](#create-a-kintone-web-database-app)
@@ -22,7 +20,6 @@ Check out [meetup.com/Kintone-Developers](https://www.meetup.com/Kintone-Develop
   * [Uncaught Error: Target container is not a DOM element](#uncaught-error-target-container-is-not-a-dom-element)
   * [Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'value')](#uncaught-in-promise-typeerror-cannot-read-properties-of-undefined-reading-value)
 
-<!-- markdownlint-enable MD007 -->
 
 ## Get Started
 
@@ -42,7 +39,7 @@ npm install
 npm install -g @kintone/customize-uploader
 ```
 
-### ⚡ Notes ⚡
+### ⚡ Notes ⚡ <!-- omit in toc -->
 
 ⚡ React requires **Node ≥ 10.16** & **npm ≥ 5.6** ⚡
 
@@ -88,7 +85,7 @@ npm install -g @kintone/customize-uploader
 
 |                                             |                                             |
 | ------------------------------------------- | ------------------------------------------- |
-| ![Step 1: Fill out the Kintone Developer license sign up form](./docs/img/SignUp-1.png) | ![Step 2: Email address will be the login name & the subdomain will be your unique link](./docs/img/SignUp-2.png) |
+| ![Step 1: Fill out the Kintone Developer license sign up form](./docs/images/SignUp-1.png) | ![Step 2: Email address will be the login name & the subdomain will be your unique link](./docs/images/SignUp-2.png) |
 
 ---
 
